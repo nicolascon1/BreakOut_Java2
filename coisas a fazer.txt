@@ -1,0 +1,14 @@
+* Tamanhos
+
+* Placar
+
+* Vitoria ou Derrota adicionar o Restart (R)
+
+* Blocos indestrutiveis
+
+* Utilizar os blocos coloridos aleatoriamente
+
+* Trocar a imagem para o bloco quebrado e sera necessário 2 batidas para quebrar
+
+* Menu
+
