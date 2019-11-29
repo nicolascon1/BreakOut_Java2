@@ -6,7 +6,7 @@ public class Raquete extends Sprite{
     private int direcaoX = 0;
     
     public Raquete() {
-        ImageIcon iconRaquete = new ImageIcon(getClass().getResource("~/imagens/raquete.png"));
+        ImageIcon iconRaquete = new ImageIcon(getClass().getResource("imagens/raquete.png"));
         imagem = iconRaquete.getImage();
         image_width = imagem.getWidth(null) / 10;
         image_height = imagem.getHeight(null) / 10;

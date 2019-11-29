@@ -27,7 +27,7 @@ public class Bola extends Sprite{
     }
     
     public Bola() {
-        ImageIcon iconBola = new ImageIcon(getClass().getResource("~/imagens/bola.png"));
+        ImageIcon iconBola = new ImageIcon(getClass().getResource("imagens/bola.png"));
         imagem = iconBola.getImage();
         image_width = imagem.getWidth(null) / 10;
         image_height = imagem.getHeight(null) / 10;
