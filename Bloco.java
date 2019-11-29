@@ -7,7 +7,7 @@ public class Bloco extends Sprite{
         this.posicaoAtual_X = x;
         this.posicaoAtual_Y = y;
         
-        ImageIcon iconBloco = new ImageIcon(getClass().getResource("imagens/bloco.png"));
+        ImageIcon iconBloco = new ImageIcon(getClass().getResource("~/imagens/bloco.png"));
         imagem = iconBloco.getImage();
         image_width = imagem.getWidth(null) / 10;
         image_height = imagem.getHeight(null) / 10;

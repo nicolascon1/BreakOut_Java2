@@ -12,7 +12,8 @@ public class Breakout extends JFrame{
         add(new Game());
         setTitle("Breakout Felipe && Nicolas");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
-        setSize(Constantes.WIDTH, Constantes.HEIGHT);
+        // setSize(Constantes.WIDTH, Constantes.HEIGHT);
+        setSize(500, 700);
         setLocationRelativeTo(null);
         setResizable(false);
         setVisible(true);
