@@ -10,7 +10,7 @@ public class Breakout extends JFrame{
     
     private void initUI() {
         add(new Game());
-        setTitle("Felipe && Nicolas");
+        setTitle("BreakOut Felipe && Nicolas");
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setSize(Constantes.WIDTH, Constantes.HEIGHT);
         setLocationRelativeTo(null);
